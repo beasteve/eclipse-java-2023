@@ -6,8 +6,14 @@ public class Main {
 		
 		System.out.println("Hello World! Stephen");
 		
-		System.out.println(2*3);
+		System.out.print(2*56);
 
+	}
+	
+	public static void main(Number[] args) {
+		System.out.print(2+4);
 	}
 
 }
+
+
