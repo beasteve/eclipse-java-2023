@@ -28,6 +28,8 @@ public class Ejercicio11 {
 		        } else {
 		            System.out.println(num + " no es primo.");
 		        }
+		        
+		        
 
 		    }
 
