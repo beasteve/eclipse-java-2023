@@ -19,6 +19,10 @@ public class Vehiclo {
 	public void desacelerar() {}
 	public void firarIzquierda() {}
 	public void girarDerecha() {}
+	public void girarIzquierda() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	
 	
